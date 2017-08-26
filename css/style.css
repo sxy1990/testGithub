@@ -1,0 +1,46 @@
+.swiper-container{position: relative;overflow: hidden;max-height:4.83rem;}
+.swiper-container img,.swiper-container a{width: 100%;display: block;height: 4.83rem;}
+
+.swiper-container-horizontal>.swiper-pagination-bullets{position:absolute;bottom:0.2rem;font-size: 0;text-align: center;}
+.swiper-pagination-bullet{opacity:1;display: inline-block;margin:0 0.06rem;background: #fff;width:0.13rem;height:0.13rem;border-radius: 100%;}
+.swiper-pagination-bullet-active{background:rgba(255,255,255,,.5);}
+.swiper-button-prev,.swiper-button-next{background: none;left: 2.2rem;line-height: 0.6rem;text-align: center;font-size: 0.3rem;color: #fff;top:auto;bottom:-0.12rem;z-index: 99;}
+.swiper-button-next{left:auto;right: 2.2rem;}
+.section .h2{font-size: 0.28rem;color: #898888;padding: 0.26rem 0;}
+.section .h2 .icon{margin-right: 0.1rem;}
+.news li{padding-bottom: 0.3rem;margin-bottom: 0.36rem;border-bottom: 1px solid #efefef;}
+.news li:last-child{margin-bottom: 0;border: none;}
+.news .imgResponsive{width: 100%;height: 3.46rem;border-radius: 0.06rem;}
+.news .newTxt{margin-top: 0.16rem;position: relative;}
+.news .newTxt h4{font-size: 0.26rem;color: #525252;}
+.news .newTxt .btnRead{position: absolute;right: 0;top:0;}
+.news .newTxt p{margin-top: 0.14rem;line-height: 0.34rem;font-size: 0.22rem;}
+.business li{margin-bottom: 0.3rem;position: relative;}
+.business img{width: 100%;height:3.44rem;}
+.business .mask{position: absolute;background: rgba(0,0,0,.3);left: 0;top:0;right: 0;bottom: 0;color: #fff;padding: 0.8rem 0 0 0;text-align: center;}
+.business .ch{font-size: 0.48rem;letter-spacing: 0.08rem;font-weight: bold;}
+.business .en{text-transform: uppercase;margin: 0.1rem 0 0.4rem;}
+.about img{width: 100%;height: 1.77rem;}
+.article .detail{}
+.article .detail h4{font-size: 0.26rem;color: #525252;margin-bottom: 0.24rem;}
+.article .detail p{line-height: 0.34rem;font-size: 0.22rem;margin-bottom: 0.3rem;}
+.article .detail img{display: block;margin: 0 auto;max-width: 100%;}
+.article .artsel{}
+.article .artsel p{line-height: 0.42rem;}
+.article  p.date{margin-top: 0.42rem;}
+.energy li{margin-bottom: 0.4rem;position: relative;}
+.energy a{display: block;}
+.energy img{width: 100%;height: 3.24rem;}
+.energy .mask{position: absolute;left: 0;bottom: 0;right: 0;line-height: 0.68rem;padding: 0 0.18rem;background: rgba(4,4,4,.5);color: #fff;}
+.energy span.ellipsis{font-size: 0.26rem;width: 2.7rem;}
+.product{position: relative;}
+.product a.block{position: relative;}
+.product .imgResponsive{width: 100%;height: 1.93rem;}
+.product .readmore{color: #fff;font-size: 0.2rem;position: absolute;right: 0.3rem;bottom: 0.3rem;}
+.technology li{line-height: 0.68rem;}
+.technology a.ellipsis{color: #525252;display: block;width: 2.54rem;}
+.addr li{line-height: 0.44rem;position: relative;padding-left: 0.5rem;}
+.addr .icon{position: absolute;left: 0;top:0.1rem}
+.seParent{overflow: hidden;}
+.seParent .seParentInner{overflow: hidden;}
+.seParent .sectionWrap{float: left;}
